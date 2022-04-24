@@ -1,1 +1,0 @@
-# Analiza_Danych_Przestrzennych
